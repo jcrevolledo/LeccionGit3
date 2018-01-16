@@ -17,12 +17,18 @@ public class Git_3 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
-    public void VALENTIN_MOSTRAR(){
-        System.out.println("Mostrar Valentin");   
-     }
-    public void REVOLLEDO_MOSTRAR(){
+
+    public void VALENTIN_MOSTRAR() {
+        System.out.println("Mostrar Valentin");
+    }
+
+    public void REVOLLEDO_MOSTRAR() {
         System.out.println("Mostrar Revolledo");
     }
-    
+
+    public void VALENTIN_BRANCH_A() {
+        System.out.println("Mostrar branch A");
+
+    }
+
 }
