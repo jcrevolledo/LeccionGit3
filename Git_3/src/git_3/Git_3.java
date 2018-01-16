@@ -24,7 +24,13 @@ public class Git_3 {
     public void REVOLLEDO_MOSTRAR(){
         System.out.println("Mostrar Revolledo");
     }
+
     public void REVOLLEDO_BRANCH_A(){
         System.out.println("Mostrar Branch A");
+    }
+
+    public void VALENTIN_BRANCH_A() {
+        System.out.println("Mostrar branch A");
+
     }
 }
