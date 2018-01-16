@@ -18,4 +18,9 @@ public class Git_3 {
         // TODO code application logic here
     }
     
+    public void VALENTIN_MOSTRAR(){
+        System.out.println("Mostrar Valentin");   
+    
+    }
+    
 }
